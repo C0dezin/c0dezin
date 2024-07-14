@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
@@ -27,7 +27,7 @@ JSON                     46 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 14/07/2024 04:58:33 UTC
+ Last Updated on 14/07/2024 05:13:00 UTC
 <!--END_SECTION:waka-->
 
 More info about me in https://c0de.wtf
