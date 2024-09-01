@@ -1,7 +1,7 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@c0dezin/b7f18a7c-ab3a-40b8-8bc7-b1b7bf71f1d6.svg" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -19,11 +19,15 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 13 mins             █████████████░░░░░░░░░░░░   53.09 % 
+JavaScript               11 mins             ███████████░░░░░░░░░░░░░░   44.97 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 
- Last Updated on 01/09/2024 03:02:20 UTC
+ Last Updated on 01/09/2024 03:24:47 UTC
 <!--END_SECTION:waka-->
 
 More info about me in https://c0de.wtf
