@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
@@ -29,7 +29,7 @@ Other                    29 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 04/11/2024 18:56:20 UTC
+ Last Updated on 04/11/2024 19:01:24 UTC
 <!--END_SECTION:waka-->
 
 More info about me in https://c0de.wtf
