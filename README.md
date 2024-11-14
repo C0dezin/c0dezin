@@ -3,7 +3,7 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@c0dezin/b7f18a7c-ab3a-40b8-8bc7-b1b7bf71f1d6.svg" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -21,15 +21,15 @@
 
 ```text
 💬 Programming Languages: 
-HTML                     1 hr 56 mins        █████████░░░░░░░░░░░░░░░░   35.10 % 
-Other                    1 hr 44 mins        ████████░░░░░░░░░░░░░░░░░   31.46 % 
-JavaScript               1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+HTML                     1 hr 56 mins        █████████░░░░░░░░░░░░░░░░   35.14 % 
+Other                    1 hr 44 mins        ████████░░░░░░░░░░░░░░░░░   31.50 % 
+JavaScript               1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
 EJS                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Python                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Python                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 ```
 
 
- Last Updated on 14/11/2024 03:14:34 UTC
+ Last Updated on 14/11/2024 03:34:20 UTC
 <!--END_SECTION:waka-->
 
 More info about me in https://c0de.wtf
