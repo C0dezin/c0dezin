@@ -21,13 +21,11 @@
 
 ```text
 💬 Programming Languages: 
-Python                   10 mins             █████████████░░░░░░░░░░░░   53.74 % 
-HTML                     8 mins              ████████████░░░░░░░░░░░░░   46.20 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/11/2024 03:04:36 UTC
+ Last Updated on 22/11/2024 03:34:02 UTC
 <!--END_SECTION:waka-->
 
 More info about me in https://c0de.wtf
