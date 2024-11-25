@@ -3,6 +3,8 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@c0dezin/b7f18a7c-ab3a-40b8-8bc7-b1b7bf71f1d6.svg" /></a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%2025%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **I'm an Early 🐤** 
@@ -23,7 +25,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/11/2024 15:19:49 UTC
+ Last Updated on 25/11/2024 15:34:53 UTC
 <!--END_SECTION:waka-->
 
 More info about me in https://c0de.wtf
