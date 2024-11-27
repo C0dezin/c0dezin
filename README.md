@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
@@ -25,7 +25,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 27/11/2024 01:05:53 UTC
+ Last Updated on 27/11/2024 02:36:58 UTC
 <!--END_SECTION:waka-->
 
 More info about me in https://c0de.wtf
