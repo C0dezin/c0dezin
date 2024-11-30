@@ -1,4 +1,4 @@
-[PGP key](https://raw.githubusercontent.com/C0dezin/c0dezin/refs/heads/main/urwq.asc)
+[PGP key](https://c0de.wtf/urwq.asc)
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@c0dezin/b7f18a7c-ab3a-40b8-8bc7-b1b7bf71f1d6.svg" /></a>
 
